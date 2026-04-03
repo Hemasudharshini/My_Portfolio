@@ -25,7 +25,3 @@ HTML, CSS, JavaScript, Bootstrap, React, Node.js
 * LinkedIn: https://www.linkedin.com/in/sudharshini-25-it/
 
 
-## 📬 Contact
-
-* Email:sudharshini993@gmail.com
-* LinkedIn:https://www.linkedin.com/in/sudharshini-25-it/
