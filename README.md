@@ -1,2 +1,50 @@
-# My_Portfolio
-This is my personal portfolio website created to showcase my skills, projects, and experience in web development. It highlights my work, technical abilities, and provides a way to contact me.
+# 💼 My Portfolio
+
+## 👋 About
+
+This is my personal portfolio website showcasing my projects, skills, and contact information.
+
+## 🛠️ Technologies
+
+HTML, CSS, JavaScript, Bootstrap, React, Node.js
+
+## 📂 Projects
+
+* Coffee Website ☕
+* Inventory Management System
+* Expense Tracker
+* Bulk Email Blocking System
+
+## 🌐 Live Demo
+
+# 💼 My Portfolio
+
+## 👋 About
+
+This is my personal portfolio website showcasing my projects, skills, and contact information.
+
+## 🛠️ Technologies
+
+HTML, CSS, JavaScript, Bootstrap, React, Node.js
+
+## 📂 Projects
+
+* Coffee Website ☕
+* Inventory Management System
+* Expense Tracker
+* Bulk Email Blocking System
+
+## 🌐 Live Demo
+
+
+
+## 📬 Contact
+
+* Email: sudharshini993@gmail.com
+* LinkedIn: https://www.linkedin.com/in/sudharshini-25-it/
+
+
+## 📬 Contact
+
+* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: your-linkedin-link
